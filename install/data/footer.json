@@ -1,0 +1,10 @@
+[
+	{
+		"widget": "html",
+		"data" : {
+			"html": "<footer id=\"footer\" class=\"container footer\">\r\n\t<div class=\"copyright\">\r\n\t\tCopyright © 2016 <a target=\"_blank\" href=\"https://github.com/chirons\">墨炎的论坛</a> | <a target=\"_blank\" href=\"//github.com/chirons/blogtest/graphs/contributors\">chiron</a>\r\n\t</div>\r\n</footer>",
+			"title":"",
+			"container":""
+		}
+	}
+]
